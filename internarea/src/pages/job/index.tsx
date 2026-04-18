@@ -34,25 +34,25 @@ const index = () => {
   //     AdditionalInfo: "This role is hybrid with occasional onsite meetings.",
   //     numberOfopning: "3",
   //   },
-  //   {
-  //     _id: "102",
-  //     title: "Data Analyst",
-  //     company: "Microsoft",
-  //     location: "Remote",
-  //     CTC: "$90K/year",
-  //     Experience: "1+ years",
-  //     category: "Data Science",
-  //     StartDate: "March 15, 2025",
-  //     aboutCompany:
-  //       "Microsoft is a technology company specializing in software development, cloud computing, and AI.",
-  //     aboutJob:
-  //       "Looking for a Data Analyst with expertise in SQL, Python, and data visualization tools.",
-  //     Whocanapply:
-  //       "Candidates with experience in data analytics, SQL, Python, and Tableau/Power BI.",
-  //     perks: "Flexible hours, remote work, upskilling programs, bonuses.",
-  //     AdditionalInfo: "This is a fully remote role.",
-  //     numberOfopning: "2",
-  //   },
+    // {
+    //   _id: "102",
+    //   title: "Data Analyst",
+    //   company: "Microsoft",
+    //   location: "Remote",
+    //   CTC: "$90K/year",
+    //   Experience: "1+ years",
+    //   category: "Data Science",
+    //   StartDate: "March 15, 2025",
+    //   aboutCompany:
+    //     "Microsoft is a technology company specializing in software development, cloud computing, and AI.",
+    //   aboutJob:
+    //     "Looking for a Data Analyst with expertise in SQL, Python, and data visualization tools.",
+    //   Whocanapply:
+    //     "Candidates with experience in data analytics, SQL, Python, and Tableau/Power BI.",
+    //   perks: "Flexible hours, remote work, upskilling programs, bonuses.",
+    //   AdditionalInfo: "This is a fully remote role.",
+    //   numberOfopning: "2",
+    // },
   //   {
   //     _id: "103",
   //     title: "UX Designer",
