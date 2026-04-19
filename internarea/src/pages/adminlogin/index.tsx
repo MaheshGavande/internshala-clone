@@ -27,7 +27,7 @@ const index = () => {
     try {
       setisloading(true);
       const res = await axios.post(
-        "https://https://internshala-clone-ze1n.onrender.com/api/admin/adminlogin",
+        "https://internshala-clone-ze1n.onrender.com/api/admin/adminlogin",
        //"http://localhost:5000/api/admin/adminlogin",
         formadata
       );

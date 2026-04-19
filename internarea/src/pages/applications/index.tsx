@@ -74,7 +74,7 @@ const index = () => {
   const handleacceptandreject = async (id: any, action: any) => {
     try {
       const res = await axios.put(
-        `https://https://internshala-clone-ze1n.onrender.com/api/application/${id}`,
+        `https://internshala-clone-ze1n.onrender.com/api/application/${id}`,
         { action }
       );
       const updateappliacrtion = data.map((app: any) =>
